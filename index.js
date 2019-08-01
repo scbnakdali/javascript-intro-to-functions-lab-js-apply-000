@@ -17,6 +17,6 @@ var uppercase ="HELLO!";
 var lowercase = "hello!";
 
 if (string === string.toLowerCase()) {
-  return ''
+  return "I can't hear you"
 }
  
