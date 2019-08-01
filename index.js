@@ -16,5 +16,5 @@ function logWhisper(string) {
 var uppercase ="HELLO!";
 var lowercase = "hello!";
 
-if (string === string.toLowerCase)
+if (string === string.toLowerCase())
  
