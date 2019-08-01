@@ -19,6 +19,6 @@ var lowercase = "hello!";
 if (string === string.toLowerCase()) {
   return "I can't hear you!"
 } else if (string.toUpperCase()) {
-  return "Yes "
+  return "YES INDEED!"
 }
  
